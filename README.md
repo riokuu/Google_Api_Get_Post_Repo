@@ -1,2 +1,4 @@
 # STX_REC_Repo
- Contains webproject
+ Contains webproject, hosted on pythonanywhare.
+http://mykeel.pythonanywhere.com/
+
